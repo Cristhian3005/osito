@@ -1,0 +1,222 @@
+#cara{
+    width: 400px;
+    height: 400px;
+    background-color: peru;
+    margin: auto;
+    border-radius: 200px;
+    border: 5px solid black;
+}
+#ojo1{
+    width: 100px;
+    height: 100px;
+    background-color: azure;
+    border-radius: 80px;
+    position: relative;
+    left: 80px;
+    top: 130px;
+}
+#ojo2{
+    width: 100px;
+    height: 100px;
+    background-color: azure;
+    border-radius: 80px;
+    position: relative;
+    left: 230px;
+    top: 30px;
+}
+#pupila1{                                           
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    border-radius: 80px;
+    position: relative;
+    left: 26px;
+    top: 28px;
+}
+#brillo1{
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    border-radius: 80px;
+    position: relative;
+    left: 4px;
+}
+#pupila2{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    border-radius: 80px;
+    position: relative;
+    left: 26px;
+    top: 28px;
+}
+#brillo2{
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    border-radius: 80px;
+    position: relative;
+    left: 4px;
+}
+#nariz{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    border-radius: 80px;
+    position: relative;
+    left: 180px;
+    top: 30px;
+}
+#boca{
+    width: 50px;
+    height: 10px;
+    background-color: black;
+    position: relative;
+    left: 136px;
+    top: 60px;
+}
+#boca2{
+    width: 50px;
+    height: 10px;
+    background-color: black;
+    position: relative;
+    left: 170px;
+    top: 28px;
+    transform: rotate(120deg);
+}
+#boca3{
+    width: 50px;
+    height: 10px;
+    background-color: black;
+    position: relative;
+    left: 200px;
+    top: 20px;
+    transform: rotate(235deg);
+}
+#boca4{
+    width: 50px;
+    height: 10px;
+    background-color: black;
+    position: relative;
+    left: 236px;
+    top: 30px;
+}
+#boca5{
+    width: 50px;
+    height: 10px;
+    background-color: black;
+    position: relative;
+    left: 94px;
+    top: 7px;
+    transform: rotate(32deg);
+}
+#boca6{
+    width: 50px;
+    height: 10px;
+    background-color: black;
+    position: relative;
+    left: 277px;
+    top: -5px;
+    transform: rotate(140deg);
+}
+#cuerpo{
+    width: 600px;
+    height: 600px;
+    background-color: peru;
+    margin: auto;
+    border-radius: 400px;
+    position: relative;
+    bottom: 50px;
+    left: 10px;
+    border: 2px solid black;
+}
+#pata1{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(90, 50, 11);
+    border-radius: 120px;
+    position: relative;
+    top: -300px;
+    left: -120px;
+    border: 2px solid black;
+}
+#pata2{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(90, 50, 11);
+    border-radius: 120px;
+    position: relative;
+    top: -180px;
+    left: -50px;
+    border: 2px solid black;
+}
+#pata3{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(90, 50, 11);
+    border-radius: 120px;
+    position: relative;
+    bottom: 800px;
+    left: 470px;
+    border: 2px solid black;
+}
+#pata4{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(90, 50, 11);
+    border-radius: 120px;
+    position: relative;
+    bottom: 680px;
+    left: 400px;
+    border: 2px solid black;
+}
+#mancha{
+    width: 350px;
+    height: 350px;
+    background-color: rgb(90, 50, 11);
+    position: relative;
+    border-radius: 200px;
+    left: 120px;
+    top: 130px;
+    border: 2px solid black;
+}
+#oreja1{
+    width: 250px;
+    height: 250px;
+    background-color: peru;
+    border-radius: 200px;
+    position: absolute;
+    top: 10px;
+    left: 410px;
+    border: 2px solid black;
+}
+#oreja2{
+    width: 250px;
+    height: 250px;
+    background-color: peru;
+    border-radius: 200px;
+    position: absolute;
+    top: 10px;
+    right: 400px;
+    border: 2px solid black;
+}
+#mancha2{
+    width: 160px;
+    height: 160px;
+    background-color: rgb(90, 50, 11);
+    border-radius: 80px;
+    position: relative;
+    left: 40px;
+    top: 40px;
+    border: 2px solid black;
+}
+#mancha3{
+    width: 160px;
+    height: 160px;
+    background-color: rgb(90, 50, 11);
+    border-radius: 80px;
+    position: relative;
+    left: 40px;
+    top: 40px;
+    border: 2px solid black;
+}
